@@ -8,11 +8,28 @@
         body {
             font-family: 'Arial', sans-serif;
             text-align: center;
-            background-color: #fce4ec;
-            color: #673ab7;
+            background-color: #fce4ec; /* Pastel pink background */
+            color: #673ab7; /* Text color */
             margin: 50px;
         }
 
         h1 {
-            color: #e91e63;
-  
+            color: #e91e63; /* Pinkish title color */
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        a {
+            color: #673ab7; /* Link color */
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>
